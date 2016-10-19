@@ -1,2 +1,2 @@
 # Hello-World
-A simple hello world mvc application
+A simple hello world application
